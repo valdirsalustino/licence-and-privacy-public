@@ -1,75 +1,124 @@
-# Política de Privacidade do Assistente de Vendas IA
+# Política de Privacidade
 
-## 1. Introdução
-Esta Política de Privacidade visa esclarecer como o Assistente de Vendas IA (doravante "Bot"), desenvolvido por FirstKiss, coleta, utiliza, armazena e protege os dados pessoais dos usuários. Acreditamos que a transparência é fundamental para a construção de uma relação de confiança.
+Esta Política de Privacidade tem como objetivo informar de forma clara e transparente como o **Assistente Virtual do Indaiatuba Clube** coleta, utiliza, armazena e protege os dados pessoais de seus usuários, em conformidade com a **Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 – LGPD)**.
 
-Ao adicionar e manter o Bot em um grupo de WhatsApp, você concorda com os termos desta Política de Privacidade e com a coleta e uso de dados descritos aqui.
+---
 
-## 2. Coleta de Dados Pessoais
-O Bot foi projetado para coletar o mínimo de dados pessoais estritamente necessário para sua funcionalidade. A coleta é realizada de forma automatizada, apenas quando um membro do grupo manifesta explicitamente o desejo de adquirir um produto.
+## 1. Dados coletados
 
-As informações que coletamos são:
+Durante a utilização do bot, poderemos coletar:
 
-- Número de Telefone: Do membro que envia a mensagem de interesse.
+### Dados de identificação
+- Nome, e-mail, telefone, CPF (quando necessário)
 
-- Produto Desejado: A informação sobre o produto ou serviço ao qual a mensagem se refere.
+### Dados de uso
+- Mensagens trocadas no bot, interações, preferências
 
-Não coletamos nomes, fotos de perfil, mensagens que não contenham manifestação de interesse, ou quaisquer outros dados que não sejam essenciais para a finalidade de vendas.
+### Dados técnicos
+- Endereço IP, data e hora de acesso, informações de dispositivo (quando aplicável)
 
-## 3. Finalidade do Tratamento dos Dados
-Os dados coletados são utilizados exclusivamente para a finalidade de otimizar o processo de vendas. Eles são usados para:
+---
 
-Identificar potenciais clientes (leads de vendas).
+## 2. Finalidades do tratamento
 
-Facilitar a comunicação entre o administrador do grupo e o cliente interessado.
+Os dados coletados são tratados para:
 
-Auxiliar o administrador a organizar e gerenciar as vendas realizadas no grupo.
+- Prestar os serviços solicitados e atender às suas demandas
+- Personalizar sua experiência no uso do bot
+- Enviar comunicações relevantes, mediante consentimento prévio
+- Cumprir obrigações legais e regulatórias
+- Realizar análises internas e melhorias nos serviços
 
-Em hipótese alguma os dados serão utilizados para envio de spam, marketing não solicitado ou qualquer outra finalidade que não seja a descrita nesta política.
+---
 
-## 4. Armazenamento e Segurança dos Dados
-Os dados coletados são armazenados em um ambiente seguro, com medidas técnicas e administrativas para protegê-los contra acesso não autorizado, uso indevido, divulgação, alteração ou destruição.
+## 3. Bases legais
 
-O acesso aos dados é restrito ao administrador do grupo, que é o responsável pelo seu tratamento. Os dados ficam armazenados por um período de tempo limitado, apenas o necessário para cumprir a finalidade de vendas, e são eliminados de forma segura após o encerramento da conversa ou quando não são mais necessários.
+O tratamento dos dados é realizado com base nas seguintes hipóteses previstas na **LGPD**:
 
-## 5. Compartilhamento de Dados
-Não compartilhamos os dados coletados com terceiros, exceto nas seguintes situações:
+| Base Legal | Descrição |
+|------------|-----------|
+|  **Consentimento** | Consentimento do titular |
+|  **Execução contratual** | Execução de contrato ou de procedimentos preliminares |
+|  **Obrigação legal** | Cumprimento de obrigação legal ou regulatória |
+|  **Legítimo interesse** | Legítimo interesse do controlador, respeitados os direitos do titular |
 
-Com o administrador do grupo, que solicitou o serviço do Bot para a gestão das vendas.
+---
 
-Para cumprir obrigações legais ou em resposta a ordens judiciais ou de autoridades competentes.
+## 4. Compartilhamento de dados
 
-## 6. Direitos do Titular dos Dados
-De acordo com a Lei Geral de Proteção de Dados (LGPD), você tem direitos sobre suas informações pessoais. Você pode, a qualquer momento e mediante solicitação, exercer os seguintes direitos:
+Os dados poderão ser compartilhados com:
 
-Confirmação da existência de tratamento de seus dados.
+###  Prestadores de serviços tecnológicos
+- Provedores de nuvem, APIs de mensagens
 
-Acesso aos seus dados.
+###  Parceiros de negócios
+- Quando necessário para a execução do serviço
 
-Correção de dados incompletos, inexatos ou desatualizados.
+###  Autoridades públicas
+- Em caso de obrigação legal ou requisição oficial
 
-Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a LGPD.
+>  **Importante:** Em todos os casos, o compartilhamento observará os princípios da **necessidade**, **proporcionalidade** e **segurança**.
 
-Revogação do consentimento.
+---
 
-Eliminação dos dados pessoais tratados com o seu consentimento.
+## 5. Armazenamento e segurança
 
-Para exercer esses direitos, entre em contato conosco através do e-mail valdirsalustino@gmail.com.
+Seus dados são armazenados em **ambiente seguro** e com acesso restrito a pessoas autorizadas. Adotamos medidas técnicas e administrativas para proteger suas informações contra:
 
-## 7. Responsabilidade do Administrador do Grupo
-A LGPD estabelece que o administrador do grupo é o controlador dos dados coletados pelo Bot. Isso significa que é responsabilidade do administrador:
+- Acessos não autorizados
+- Perda de dados
+- Alteração indevida
+- Divulgação não autorizada
 
-Informar todos os membros do grupo sobre a presença e a função do Bot.
+---
 
-Obter e manter o consentimento dos membros para a coleta e uso de seus dados.
+## 6. Direitos do titular
 
-Garantir que o uso dos dados esteja em conformidade com as leis de privacidade.
+Nos termos da **LGPD**, você tem direito de solicitar, a qualquer momento:
 
-## 8. Alterações nesta Política de Privacidade
-Podemos atualizar esta Política de Privacidade de tempos em tempos. A versão mais recente estará sempre disponível no link fornecido. O uso contínuo do Bot após a publicação de alterações significa que você aceita as novas condições.
+### Transparência
+- Confirmação da existência de tratamento de dados
+- Acesso aos dados
+
+### Correção e controle
+- Correção de dados incompletos, inexatos ou desatualizados
+- Anonimização, bloqueio ou eliminação de dados desnecessários ou tratados em desconformidade
+
+### Portabilidade e revogação
+- Portabilidade dos dados
+- Revogação do consentimento
+
+### Informações sobre compartilhamento
+- Informação sobre entidades públicas ou privadas com as quais seus dados foram compartilhados
+
+> **Para exercer seus direitos**, entre em contato através do e-mail: **valdirsalustino@gmail.com**
+
+---
+
+## 7. Retenção dos dados
+
+Os dados pessoais serão mantidos apenas pelo **tempo necessário** para cumprir as finalidades descritas nesta política, observando prazos legais e regulatórios aplicáveis.
+
+---
+
+## 8. Alterações desta política
+
+Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações:
+
+- **Legislativas**
+- **Tecnológicas**
+- **De serviços**
+
+As versões atualizadas serão sempre disponibilizadas neste mesmo canal.
+
+---
 
 ## 9. Contato
-Para perguntas ou para exercer seus direitos de privacidade, entre em contato conosco:
-E-mail: valdirsalustino@gmail.com
 
-Data de Efetivação: 22 de Agosto de 2025.
+Em caso de dúvidas ou solicitações relacionadas a esta Política de Privacidade, você pode entrar em contato pelo e-mail:
+
+**valdirsalustino@gmail.com**
+
+---
+
+*Última atualização: 06/09/2025 | Em conformidade com a LGPD (Lei nº 13.709/2018)*

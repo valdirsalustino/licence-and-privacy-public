@@ -1,36 +1,67 @@
-# Termos de Serviço
-Estes Termos de Serviço ("Termos") regem o uso do nosso Bot de WhatsApp ("o Bot"), fornecido por 
+# Termos de Uso do Bot
 
-FirstKiss
+**Bem-vindo(a) ao Assistente Virtual do Indaiatuba Clube**. Estes Termos de Uso regulam a utilização deste bot pelos usuários e devem ser lidos em conjunto com a nossa Política de Privacidade. Ao utilizar o bot, você concorda com as condições abaixo.
 
-Ao interagir com o Bot, você concorda em cumprir e se vincular a estes Termos. Se você não concorda com qualquer parte destes Termos, você não deve usar o Bot.
+---
 
-## 1. Descrição do Serviço
-O Bot funciona como um assistente virtual, utilizando tecnologia de inteligência artificial (LLM) para responder às suas perguntas. Se uma pergunta estiver fora do escopo do Bot, ele poderá direcioná-lo(a) para um assistente humano para atendimento personalizado. O Bot armazena o histórico da conversa para fins de melhoria do serviço e para garantir a continuidade do atendimento.
+## 1. Aceitação dos Termos
 
-## 2. Conduta do Usuário
-Você concorda em usar o Bot de forma responsável e para fins lícitos. É proibido:
+O uso deste bot implica na aceitação integral destes Termos de Uso. Caso você não concorde com alguma das condições aqui descritas, recomendamos que não utilize o serviço.
 
- - Usar o Bot para enviar spam, conteúdo ilegal, ameaçador, difamatório, obsceno ou de qualquer forma repreensível.
+---
 
- - Tentar acessar ou interferir nos sistemas ou na segurança do Bot.
+## 2. Serviços oferecidos
 
- - Usar o Bot para qualquer finalidade que possa violar as leis e regulamentações aplicáveis.
+- O bot tem como finalidade assistir no atendimento aos usuários do clube..
+- As funcionalidades podem ser alteradas, suspensas ou descontinuadas a qualquer momento, sem aviso prévio, respeitando os direitos dos usuários.
 
-## 3. Limitação de Responsabilidade
-O Bot é fornecido "no estado em que se encontra" e "conforme disponível". Nós não garantimos que o serviço será ininterrupto, livre de erros ou seguro. Em nenhuma circunstância seremos responsáveis por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais resultantes do uso ou da incapacidade de usar o Bot.
+---
 
-## 4. Direitos de Propriedade Intelectual
-Todo o conteúdo e a tecnologia subjacente ao Bot são de propriedade de FirstKiss ou de seus licenciadores e são protegidos por leis de direitos autorais e outras leis de propriedade intelectual. Você não tem o direito de copiar, modificar, distribuir, vender ou alugar qualquer parte do nosso serviço.
+## 3. Uso adequado
 
-## 5. Rescisão
-Reservamo-nos o direito de suspender ou encerrar seu acesso ao Bot a qualquer momento, por qualquer motivo, sem aviso prévio.
+Ao interagir com o bot, o usuário se compromete a:
 
-## 6. Alterações nos Termos de Serviço
-Podemos revisar estes Termos periodicamente. A versão mais recente estará sempre disponível nesta URL. Seu uso continuado do Bot após a publicação de quaisquer alterações constitui sua aceitação dessas alterações.
+- Fornecer informações verdadeiras e atualizadas
+- Não utilizar o bot para fins ilícitos, abusivos ou que possam prejudicar terceiros
+- Respeitar as regras de conduta e boas práticas de comunicação
 
-## 7. Lei Aplicável
-Estes Termos serão regidos e interpretados de acordo com as leis do Brasil.
+>  **Importante:** O descumprimento dessas regras poderá resultar na restrição ou bloqueio do acesso ao bot.
 
-## 8. Contato
-Para quaisquer perguntas ou preocupações sobre estes Termos de Serviço, entre em contato conosco em: valdirsalustino@gmail.com
+---
+
+## 4. Responsabilidades
+
+### Da Empresa
+- O **Indaiatuba Clube** não se responsabiliza por indisponibilidades temporárias, falhas técnicas ou eventuais erros no funcionamento do bot.
+- As informações fornecidas pelo bot têm caráter **[informativo/assistencial/comercial]** e não substituem orientações profissionais específicas, quando aplicável.
+
+### Do Usuário
+- O usuário é responsável pelo uso que faz das informações obtidas através do bot.
+
+---
+
+## 5. Propriedade intelectual
+
+Todos os conteúdos, marcas, logotipos, textos e códigos utilizados no funcionamento do bot são de propriedade do **Desenvolvedor** ou de seus licenciadores, sendo vedada sua reprodução ou utilização sem autorização prévia.
+
+---
+
+## 6. Privacidade e proteção de dados
+
+O tratamento de dados pessoais segue as disposições da **Política de Privacidade**, em conformidade com a **Lei Geral de Proteção de Dados Pessoais (LGPD)**.
+
+---
+
+## 7. Alterações nos Termos
+
+Estes Termos de Uso poderão ser modificados a qualquer momento para refletir ajustes legais, técnicos ou de serviços. As versões atualizadas estarão sempre disponíveis no mesmo canal de acesso.
+
+---
+
+## 8. Foro e legislação aplicável
+
+Estes Termos são regidos pela **legislação brasileira**. Eventuais controvérsias serão resolvidas no foro da comarca de **Americana - SP**, salvo disposições legais específicas em contrário.
+
+---
+
+*Última atualização: 06/09/2025*
